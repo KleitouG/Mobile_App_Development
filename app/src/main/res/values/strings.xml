@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Georgios Kleitou</string>
+    <string name="addPOI">add a POI</string>
+    <string name="MainMenu">Main Activity</string>
+    <string name="name">Name:</string>
+    <string name="type">Type:</string>
+    <string name="description">Description:</string>
+    <string name="add">Add a POI:</string>
+    <string name="savePOI">Save POI To Database</string>
+    <string name="savePreference">Saving User Preference</string>
+    <string name="loadPOI">Loading POIs</string>
+    <string name="loadWeb">Loading From Website</string>
+
+</resources>

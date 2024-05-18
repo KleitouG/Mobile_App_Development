@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/MainActivity" android:title="@string/MainMenu"/>
+    <item android:id="@+id/addPOI" android:title="@string/addPOI"/>
+    <item android:id="@+id/savePOI" android:title="@string/savePOI"/>
+    <item android:id="@+id/savePreference" android:title="@string/savePreference"/>
+    <item android:id="@+id/loadPOI" android:title="@string/loadPOI"/>
+    <item android:id="@+id/loadWeb" android:title="@string/loadWeb"/>
+
+</menu>
